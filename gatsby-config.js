@@ -30,7 +30,7 @@ module.exports = {
     {
       resolve: "gatsby-source-wordpress",
       options: {
-        baseUrl: "http://localhost/webdev",
+        baseUrl: "your wordpress url",
         protocol: "http",
         restApiRoutePrefix: "wp-json",
         hostingWPCOM: false,
