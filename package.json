@@ -1,7 +1,7 @@
 {
   "name": "gatword",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "A simple starter to get up and developing quickly with Gatsby and wordpress",
   "version": "0.1.0",
   "author": "Boss",
   "dependencies": {
