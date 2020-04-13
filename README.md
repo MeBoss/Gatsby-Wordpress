@@ -1,12 +1,10 @@
 ## 🚀 Quick start
 
 1.  **Install Dependicies.**
-
     ```shell
       npm install
     ```
-
-1.  **Please do to the gatsby-config.js and chage the wordpress settings of your choice**
+1.  **Please go to the gatsby-config.js and chage the wordpress settings of your choice**
     <br>
     Docs `https://www.gatsbyjs.org/packages/gatsby-source-wordpress`
 
